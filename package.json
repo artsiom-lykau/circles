@@ -1,0 +1,18 @@
+{
+  "name": "circles",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "lykovartem",
+  "license": "ISC",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "testcafe": "^0.15.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
